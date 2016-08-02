@@ -1,0 +1,66 @@
+NAVBAR COLORS:
+inverse
+default
+
+NAVBAR CLASSES:
+nav
+collapse
+
+TOGGLE / SIDEBAR:
+doesn't work 
+video 10
+
+menutemplates.py & sidebar.css go together
+
+----------------------------------------------------
+1. get a domain 
+	$12/yr
+
+2. get a webhost
+	$6/mo
+	hostgator.com
+	drop25perc
+	drop10bucks
+
+3. upload your files
+	cyberduck
+
+1. hostgator.com
+2. baby plan
+3. uncheck add-ons
+4. click create acct
+5. takes 1-24 hrs
+6. use server IP from hostgator for cyberduck
+--------------------------------------------------
+JAVASCRIPT
+
+1. CTRL + SHFT + J
+2. var x = 1;
+3. var x = 2;
+4. x+y
+5. var name = 'bill'
+6. name
+7. alert(name)
+8. alert("hi bill")
+9. prompt()
+10. (enter "bill")
+11. var name = prompt()
+12. name
+13. var name = prompt(); alert(name);
+14. var name = prompt(); var lastName = prompt(); alert(name+','+lastName);
+15. var name = prompt('what is your first name')
+16. name
+
+
+
+
+
+
+
+
+
+
+
+
+
+
